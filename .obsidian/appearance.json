@@ -1,0 +1,9 @@
+{
+  "accentColor": "",
+  "cssTheme": "Catppuccin",
+  "textFontFamily": "JetBrainsMono NF",
+  "baseFontSize": 17,
+  "enabledCssSnippets": [
+    "big-math"
+  ]
+}
