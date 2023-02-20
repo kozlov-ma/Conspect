@@ -1,4 +1,6 @@
 [
   "obsidian-git",
-  "quick-latex"
+  "quick-latex",
+  "obsidian-pandoc",
+  "webpage-html-export"
 ]
