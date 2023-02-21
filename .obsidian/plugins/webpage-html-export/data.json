@@ -1,5 +1,5 @@
 {
-  "inlineCSS": true,
+  "inlineCSS": false,
   "inlineJS": true,
   "inlineImages": true,
   "makeNamesWebStyle": true,
@@ -8,5 +8,5 @@
   "includeOutline": true,
   "customLineWidth": 0,
   "openAfterExport": true,
-  "lastExportPath": "/home/kozlov/ObsidianVaults/My/Conspect/site"
+  "lastExportPath": "/home/kozlov/ObsidianVaults/My/Conspect/docs"
 }
