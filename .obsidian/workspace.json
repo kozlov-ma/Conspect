@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "algem/Многочлены.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -152,11 +152,23 @@
   },
   "active": "389b6a3108dc3995",
   "lastOpenFiles": [
+    "docs/!algem.html",
     "!Algem.md",
+    "docs/algem/многочлены.html",
+    "docs/algem/theme.css",
+    "docs/algem/snippets.css",
+    "docs/algem/plugin-styles.css",
+    "docs/algem/obsidian-styles.css",
+    "docs/algem",
     "algem/Многочлены.md",
-    "readme.md",
+    "docs/index.html",
     "index.md",
+    "docs/snippets.css",
+    "docs/theme.css",
+    "docs/plugin-styles.css",
+    "readme.md",
     "algem/о.md",
+    "algem/Untitled.md",
     "attachments/Pasted image 20230221122641.png",
     "attachments/Pasted image 20230221122655.png",
     "algem/Теорема о делении с остатком.md",
