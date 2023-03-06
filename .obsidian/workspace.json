@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8a31fb339e4ae51b",
+            "id": "457091eb824c92dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "!Matan.md",
+                "file": "algem/Определители.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "!Matan.md",
+                "file": "algem/Определители.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "!Matan.md",
+                "file": "algem/Определители.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "!Matan.md"
+                "file": "algem/Определители.md"
               }
             }
           }
@@ -150,33 +150,34 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "8a31fb339e4ae51b",
+  "active": "457091eb824c92dd",
   "lastOpenFiles": [
-    "index.md",
-    "!Matan.md",
-    "!Algem.md",
-    "matan/Производная Функции.md",
-    "!.md",
-    "algem/Многочлены.md",
-    "attachments/Metodo_delle_secanti.gif",
-    "attachments/Pasted image 20230306105205.png",
     "docs/!algem.html",
+    "!Algem.md",
     "docs/algem/многочлены.html",
+    "algem/Определители.md",
+    "algem/Многочлены.md",
+    "docs/algem/определители.html",
     "docs/algem/theme.css",
     "docs/algem/snippets.css",
     "docs/algem/plugin-styles.css",
     "docs/algem/obsidian-styles.css",
     "docs/algem",
     "docs/index.html",
-    "docs/snippets.css",
-    "docs/theme.css",
+    "index.md",
+    "docs/readme.html",
     "readme.md",
+    "docs/matan/неопределённый-интеграл.html",
     "matan/Неопределённый Интеграл.md",
+    "matan/Производная Функции.md",
+    "!Matan.md",
+    "!.md",
+    "attachments/Metodo_delle_secanti.gif",
+    "attachments/Pasted image 20230306105205.png",
     "attachments/Pasted image 20230306110207.png",
     "attachments/Pasted image 20230306110839.png",
     "attachments/Pasted image 20230306110216.png",
     "algem/о.md",
-    "algem/Untitled.md",
     "attachments/Pasted image 20230221122641.png",
     "attachments/Pasted image 20230221122655.png",
     "algem/Теорема о делении с остатком.md",
