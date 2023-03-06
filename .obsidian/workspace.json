@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "fc5ad4cef896be30",
+        "id": "3facca145c42975d",
         "type": "tabs",
         "children": [
           {
-            "id": "389b6a3108dc3995",
+            "id": "8a31fb339e4ae51b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "attachments/Pasted image 20230306110207.png"
+                "file": "!Matan.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "attachments/Pasted image 20230306110207.png",
+                "file": "!Matan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "attachments/Pasted image 20230306110207.png",
+                "file": "!Matan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "attachments/Pasted image 20230306110207.png"
+                "file": "!Matan.md"
               }
             }
           }
@@ -148,29 +150,31 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "389b6a3108dc3995",
+  "active": "8a31fb339e4ae51b",
   "lastOpenFiles": [
-    "attachments/Pasted image 20230306105205.png",
-    "attachments/Pasted image 20230306110207.png",
-    "algem/Многочлены.md",
+    "index.md",
+    "!Matan.md",
+    "!Algem.md",
     "matan/Производная Функции.md",
-    "matan/Неопределённый Интеграл.md",
-    "matan",
-    "docs/matan/производная-функции.html",
-    "docs/matan/неопределённый-интеграл.html",
-    "docs/matan/theme.css",
-    "docs/matan/snippets.css",
-    "docs/matan/plugin-styles.css",
-    "docs/matan/obsidian-styles.css",
-    "docs/matan",
+    "!.md",
+    "algem/Многочлены.md",
     "attachments/Metodo_delle_secanti.gif",
+    "attachments/Pasted image 20230306105205.png",
+    "docs/!algem.html",
+    "docs/algem/многочлены.html",
+    "docs/algem/theme.css",
+    "docs/algem/snippets.css",
+    "docs/algem/plugin-styles.css",
+    "docs/algem/obsidian-styles.css",
+    "docs/algem",
+    "docs/index.html",
+    "docs/snippets.css",
+    "docs/theme.css",
+    "readme.md",
+    "matan/Неопределённый Интеграл.md",
+    "attachments/Pasted image 20230306110207.png",
     "attachments/Pasted image 20230306110839.png",
     "attachments/Pasted image 20230306110216.png",
-    "docs/!algem.html",
-    "!Algem.md",
-    "docs/algem/многочлены.html",
-    "index.md",
-    "readme.md",
     "algem/о.md",
     "algem/Untitled.md",
     "attachments/Pasted image 20230221122641.png",
