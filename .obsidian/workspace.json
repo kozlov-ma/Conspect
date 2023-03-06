@@ -11,50 +11,13 @@
             "id": "389b6a3108dc3995",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "!Algem.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7a2c04b6ae879c63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "algem/Многочлены.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "3fb70425a5eded25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "matan/Производная Функции.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "47518831ed1bbeba",
-            "type": "leaf",
-            "state": {
               "type": "image",
               "state": {
-                "file": "attachments/Metodo_delle_secanti.gif"
+                "file": "attachments/Pasted image 20230306110207.png"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "attachments/Metodo_delle_secanti.gif",
+                "file": "attachments/Pasted image 20230306110207.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "attachments/Metodo_delle_secanti.gif",
+                "file": "attachments/Pasted image 20230306110207.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "attachments/Metodo_delle_secanti.gif"
+                "file": "attachments/Pasted image 20230306110207.png"
               }
             }
           }
@@ -185,17 +148,35 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "47518831ed1bbeba",
+  "active": "389b6a3108dc3995",
   "lastOpenFiles": [
-    "Pasted image 20230306105205.png",
-    "index.md",
-    "!Algem.md",
+    "attachments/Pasted image 20230306105205.png",
+    "attachments/Pasted image 20230306110207.png",
     "algem/Многочлены.md",
     "matan/Производная Функции.md",
     "matan/Неопределённый Интеграл.md",
-    "readme.md",
+    "matan",
+    "docs/matan/производная-функции.html",
+    "docs/matan/неопределённый-интеграл.html",
+    "docs/matan/theme.css",
+    "docs/matan/snippets.css",
+    "docs/matan/plugin-styles.css",
+    "docs/matan/obsidian-styles.css",
+    "docs/matan",
+    "attachments/Metodo_delle_secanti.gif",
+    "attachments/Pasted image 20230306110839.png",
+    "attachments/Pasted image 20230306110216.png",
     "docs/!algem.html",
+    "!Algem.md",
     "docs/algem/многочлены.html",
-    "docs/algem/theme.css"
+    "index.md",
+    "readme.md",
+    "algem/о.md",
+    "algem/Untitled.md",
+    "attachments/Pasted image 20230221122641.png",
+    "attachments/Pasted image 20230221122655.png",
+    "algem/Теорема о делении с остатком.md",
+    "Static site test.md",
+    "Game/RimWorld clone - plan.md"
   ]
 }
