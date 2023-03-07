@@ -15,7 +15,7 @@
               "state": {
                 "file": "algem/Определители.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -163,14 +163,14 @@
     "docs/algem/plugin-styles.css",
     "docs/algem/obsidian-styles.css",
     "docs/algem",
+    "docs/!matan.html",
+    "!Matan.md",
     "docs/index.html",
     "index.md",
-    "docs/readme.html",
-    "readme.md",
     "docs/matan/неопределённый-интеграл.html",
     "matan/Неопределённый Интеграл.md",
     "matan/Производная Функции.md",
-    "!Matan.md",
+    "readme.md",
     "!.md",
     "attachments/Metodo_delle_secanti.gif",
     "attachments/Pasted image 20230306105205.png",
