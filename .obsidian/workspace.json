@@ -4,34 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c66f62484e17bd61",
+        "id": "3facca145c42975d",
         "type": "tabs",
         "children": [
           {
-            "id": "bb793d64908e4de9",
+            "id": "457091eb824c92dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "matan/Неопределённый Интеграл.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "4172936167984846",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fee8768499f78c9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "matan/Неопределённый Интеграл.md",
+                "file": "algem/Определители.md",
                 "mode": "source",
                 "source": true
               }
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "matan/Неопределённый Интеграл.md",
+                "file": "algem/Определители.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "matan/Неопределённый Интеграл.md",
+                "file": "algem/Определители.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "matan/Неопределённый Интеграл.md"
+                "file": "algem/Определители.md"
               }
             }
           }
@@ -168,26 +150,41 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "bb793d64908e4de9",
+  "active": "457091eb824c92dd",
   "lastOpenFiles": [
+    "docs/!algem.html",
+    "!Algem.md",
+    "docs/algem/многочлены.html",
+    "algem/Определители.md",
     "algem/Многочлены.md",
+    "docs/algem/определители.html",
+    "docs/algem/theme.css",
+    "docs/algem/plugin-styles.css",
+    "docs/algem/snippets.css",
+    "docs/algem/obsidian-styles.css",
+    "docs/algem",
+    "docs/!matan.html",
+    "!Matan.md",
+    "docs/index.html",
+    "index.md",
+    "docs/matan/неопределённый-интеграл.html",
     "matan/Неопределённый Интеграл.md",
     "matan/Производная Функции.md",
-    "algem/Определители.md",
+    "matan/Определённый интеграл.md",
+    "readme.md",
+    "attachments/Pasted image 20230313155215.png",
+    "attachments/Pasted image 20230313155209.png",
+    "!.md",
     "attachments/Metodo_delle_secanti.gif",
-    "docs/algem/определители.html",
-    "docs/!matan.html",
+    "attachments/Pasted image 20230306105205.png",
+    "attachments/Pasted image 20230306110207.png",
     "attachments/Pasted image 20230306110839.png",
     "attachments/Pasted image 20230306110216.png",
-    "attachments/Pasted image 20230306110207.png",
-    "attachments/Pasted image 20230306105205.png",
-    "!Matan.md",
-    "Pasted image 20230306105205.png",
-    "index.md",
-    "!Algem.md",
-    "readme.md",
-    "docs/!algem.html",
-    "docs/algem/многочлены.html",
-    "docs/algem/theme.css"
+    "algem/о.md",
+    "attachments/Pasted image 20230221122641.png",
+    "attachments/Pasted image 20230221122655.png",
+    "algem/Теорема о делении с остатком.md",
+    "Static site test.md",
+    "Game/RimWorld clone - plan.md"
   ]
 }
