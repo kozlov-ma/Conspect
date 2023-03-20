@@ -13,11 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algem/Определители.md",
+                "file": "matan/Определённый интеграл.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "15c3c4a86a5776d4"
+          }
+        ]
+      },
+      {
+        "id": "17cddcd825d64b39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "264b30464488fe1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "matan/Определённый интеграл.md",
                 "mode": "source",
                 "source": true
               }
-            }
+            },
+            "group": "15c3c4a86a5776d4"
           }
         ]
       }
@@ -85,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algem/Определители.md",
+                "file": "matan/Определённый интеграл.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algem/Определители.md",
+                "file": "matan/Определённый интеграл.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algem/Определители.md"
+                "file": "matan/Определённый интеграл.md"
               }
             }
           }
@@ -150,12 +170,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "457091eb824c92dd",
+  "active": "264b30464488fe1d",
   "lastOpenFiles": [
-    "docs/!algem.html",
     "!Algem.md",
-    "docs/algem/многочлены.html",
     "algem/Определители.md",
+    "docs/!algem.html",
+    "docs/algem/многочлены.html",
     "algem/Многочлены.md",
     "docs/algem/определители.html",
     "docs/algem/theme.css",
@@ -167,7 +187,6 @@
     "!Matan.md",
     "docs/index.html",
     "index.md",
-    "docs/matan/неопределённый-интеграл.html",
     "matan/Неопределённый Интеграл.md",
     "matan/Производная Функции.md",
     "matan/Определённый интеграл.md",
