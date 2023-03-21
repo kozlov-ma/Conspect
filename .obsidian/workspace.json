@@ -1,59 +1,52 @@
 {
   "main": {
-    "id": "0b845d0f3f5914cb",
+    "id": "d38cc82c91f6b40d",
     "type": "split",
     "children": [
       {
-        "id": "3facca145c42975d",
+        "id": "238724f0e554302d",
         "type": "tabs",
         "children": [
           {
-            "id": "457091eb824c92dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "algem/Определители.md",
-                "mode": "preview",
-                "source": true
-              }
-            },
-            "group": "15c3c4a86a5776d4"
-          }
-        ]
-      },
-      {
-        "id": "17cddcd825d64b39",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "264b30464488fe1d",
+            "id": "9db2092f1bd2c58e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "algem/Определители.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
-            },
-            "group": "15c3c4a86a5776d4"
+            }
+          },
+          {
+            "id": "e20aef66bef6c6f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "algem/Замена базиса.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "c5b5e4d758f7b1c3",
+    "id": "807a2e8f45d85c5c",
     "type": "split",
     "children": [
       {
-        "id": "f551290082b7727d",
+        "id": "6f73a61bbfd53837",
         "type": "tabs",
         "children": [
           {
-            "id": "f4372a36eeba5e9f",
+            "id": "32cddf2465b0d513",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,7 +56,7 @@
             }
           },
           {
-            "id": "2d89de4213339d61",
+            "id": "a82b3975550c5ab7",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -78,7 +71,7 @@
             }
           },
           {
-            "id": "06e88e107bcef06e",
+            "id": "ca53e30646d3959a",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -92,20 +85,20 @@
     "width": 300
   },
   "right": {
-    "id": "c6f73440a447904e",
+    "id": "986fdd588fb2e066",
     "type": "split",
     "children": [
       {
-        "id": "5933114a8b26f352",
+        "id": "d3d7b3ae31e8a0d8",
         "type": "tabs",
         "children": [
           {
-            "id": "aa97287e20ea389d",
+            "id": "91b8d9ac5b02afc7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algem/Определители.md",
+                "file": "algem/Замена базиса.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,19 +110,19 @@
             }
           },
           {
-            "id": "00207aeb874384d5",
+            "id": "53995bbd67b123e0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algem/Определители.md",
+                "file": "algem/Замена базиса.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "92be265b57479685",
+            "id": "180bfecaff6af932",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -140,12 +133,12 @@
             }
           },
           {
-            "id": "7ccd8d3a28626d31",
+            "id": "99ff550cefc73b95",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "algem/Определители.md"
+                "file": "algem/Замена базиса.md"
               }
             }
           }
@@ -158,6 +151,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "webpage-html-export:Export Vault to HTML": false,
+      "terminal:Open terminal": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -165,18 +160,17 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "workspaces:Manage workspace layouts": false,
-      "webpage-html-export:Export Vault to HTML": false,
-      "terminal:Open terminal": false
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "264b30464488fe1d",
+  "active": "e20aef66bef6c6f4",
   "lastOpenFiles": [
     "docs/!algem.html",
     "!Algem.md",
     "docs/!matan.html",
-    "matan/Определённый интеграл.md",
+    "algem/Замена базиса.md",
     "!Matan.md",
+    "docs/algem/замена-базиса.html",
     "docs/algem/многочлены.html",
     "algem/Многочлены.md",
     "docs/algem/определители.html",
@@ -188,22 +182,9 @@
     "algem/Определители.md",
     "docs/index.html",
     "index.md",
-    "docs/matan/неопределённый-интеграл.html",
     "matan/Неопределённый Интеграл.md",
+    "matan/Определённый интеграл.md",
     "matan/Производная Функции.md",
-    "readme.md",
-    "attachments/Pasted image 20230313155215.png",
-    "attachments/Pasted image 20230313155209.png",
-    "!.md",
-    "attachments/Metodo_delle_secanti.gif",
-    "attachments/Pasted image 20230306105205.png",
-    "attachments/Pasted image 20230306110207.png",
-    "attachments/Pasted image 20230306110839.png",
-    "attachments/Pasted image 20230306110216.png",
-    "algem/о.md",
-    "attachments/Pasted image 20230221122641.png",
-    "attachments/Pasted image 20230221122655.png",
-    "algem/Теорема о делении с остатком.md",
-    "Static site test.md",
-    "Game/RimWorld clone - plan.md"
+    "readme.md"
   ]
+}
