@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "matan/Определённый интеграл.md",
+                "file": "algem/Определители.md",
                 "mode": "preview",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "matan/Определённый интеграл.md",
+                "file": "algem/Определители.md",
                 "mode": "source",
                 "source": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "matan/Определённый интеграл.md",
+                "file": "algem/Определители.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "matan/Определённый интеграл.md",
+                "file": "algem/Определители.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "matan/Определённый интеграл.md"
+                "file": "algem/Определители.md"
               }
             }
           }
@@ -172,6 +172,7 @@
   },
   "active": "264b30464488fe1d",
   "lastOpenFiles": [
+    "matan/Определённый интеграл.md",
     "!Algem.md",
     "algem/Определители.md",
     "docs/!algem.html",
@@ -189,7 +190,6 @@
     "index.md",
     "matan/Неопределённый Интеграл.md",
     "matan/Производная Функции.md",
-    "matan/Определённый интеграл.md",
     "readme.md",
     "attachments/Pasted image 20230313155215.png",
     "attachments/Pasted image 20230313155209.png",
