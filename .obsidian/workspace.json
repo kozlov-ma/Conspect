@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7a023a29f3b343c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "algem/Линейное отображение в пространствах со скалярным произведением.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algem/Замена базиса.md",
+                "file": "algem/Линейное отображение в пространствах со скалярным произведением.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algem/Замена базиса.md",
+                "file": "algem/Линейное отображение в пространствах со скалярным произведением.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algem/Замена базиса.md"
+                "file": "algem/Линейное отображение в пространствах со скалярным произведением.md"
               }
             }
           }
@@ -163,28 +175,30 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e20aef66bef6c6f4",
+  "active": "7a023a29f3b343c7",
   "lastOpenFiles": [
     "docs/!algem.html",
     "!Algem.md",
     "docs/!matan.html",
-    "algem/Замена базиса.md",
+    "algem/Линейное отображение в пространствах со скалярным произведением.md",
     "!Matan.md",
-    "docs/algem/замена-базиса.html",
     "docs/algem/многочлены.html",
     "algem/Многочлены.md",
     "docs/algem/определители.html",
+    "algem/Определители.md",
+    "docs/algem/замена-базиса.html",
+    "algem/Замена базиса.md",
+    "docs/algem/линейное-отображение-в-пространствах-со-скалярным-произведением.html",
+    "docs/algem/plugin-styles.css",
     "docs/algem/theme.css",
     "docs/algem/snippets.css",
-    "docs/algem/plugin-styles.css",
     "docs/algem/obsidian-styles.css",
     "docs/algem",
-    "algem/Определители.md",
-    "docs/index.html",
     "index.md",
     "matan/Неопределённый Интеграл.md",
     "matan/Определённый интеграл.md",
     "matan/Производная Функции.md",
-    "readme.md"
+    "readme.md",
+    "algem/о.md"
   ]
 }
