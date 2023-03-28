@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algem/Линейное отображение в пространствах со скалярным произведением.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algem/Линейное отображение в пространствах со скалярным произведением.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algem/Линейное отображение в пространствах со скалярным произведением.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algem/Линейное отображение в пространствах со скалярным произведением.md"
+                "file": "index.md"
               }
             }
           }
@@ -177,10 +177,10 @@
   },
   "active": "7a023a29f3b343c7",
   "lastOpenFiles": [
-    "docs/!algem.html",
     "!Algem.md",
-    "docs/!matan.html",
     "algem/Линейное отображение в пространствах со скалярным произведением.md",
+    "docs/!algem.html",
+    "docs/!matan.html",
     "!Matan.md",
     "docs/algem/многочлены.html",
     "algem/Многочлены.md",
@@ -193,7 +193,6 @@
     "docs/algem/theme.css",
     "docs/algem/snippets.css",
     "docs/algem/obsidian-styles.css",
-    "docs/algem",
     "index.md",
     "matan/Неопределённый Интеграл.md",
     "matan/Определённый интеграл.md",
