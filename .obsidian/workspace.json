@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "matan/Определённый интеграл.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "matan/Определённый интеграл.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "matan/Определённый интеграл.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "matan/Определённый интеграл.md"
               }
             }
           }
@@ -177,25 +177,26 @@
   },
   "active": "7a023a29f3b343c7",
   "lastOpenFiles": [
-    "!Algem.md",
-    "algem/Линейное отображение в пространствах со скалярным произведением.md",
     "docs/!algem.html",
+    "!Algem.md",
     "docs/!matan.html",
+    "matan/Определённый интеграл.md",
     "!Matan.md",
-    "docs/algem/многочлены.html",
-    "algem/Многочлены.md",
-    "docs/algem/определители.html",
-    "algem/Определители.md",
     "docs/algem/замена-базиса.html",
     "algem/Замена базиса.md",
     "docs/algem/линейное-отображение-в-пространствах-со-скалярным-произведением.html",
-    "docs/algem/plugin-styles.css",
+    "algem/Линейное отображение в пространствах со скалярным произведением.md",
+    "docs/algem/многочлены.html",
+    "algem/Многочлены.md",
+    "docs/algem/определители.html",
     "docs/algem/theme.css",
     "docs/algem/snippets.css",
+    "docs/algem/plugin-styles.css",
     "docs/algem/obsidian-styles.css",
+    "docs/algem",
+    "algem/Определители.md",
     "index.md",
     "matan/Неопределённый Интеграл.md",
-    "matan/Определённый интеграл.md",
     "matan/Производная Функции.md",
     "readme.md",
     "algem/о.md"
