@@ -1,7 +1,7 @@
 {
   "accentColor": "",
   "cssTheme": "Catppuccin",
-  "textFontFamily": "JetBrainsMono NF",
+  "textFontFamily": "JetBrainsMono Nerd Font",
   "baseFontSize": 17,
   "enabledCssSnippets": [
     "big-math"
