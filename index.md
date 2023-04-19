@@ -28,7 +28,7 @@
 > ## [Определённый интеграл](matan/Определённый%20интеграл.md) 
 > 
 > РАБОЧАЯ ПДФКА -> -> ->
-> ## [Определённый интеграл.pdf](https://github.com/kozlov-ma/Conspect/blob/main/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D1%91%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D0%BB.pdf)
+> ## [Определённый интеграл.pdf](https://raw.githubusercontent.com/kozlov-ma/Conspect/main/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D1%91%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D0%BB.pdf)
 >
 
 ## [Несобственный интеграл](matan/Несобственный%20интеграл.md)
